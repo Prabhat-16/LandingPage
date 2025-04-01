@@ -111,8 +111,8 @@ const Navbar = () => {
             <input type="text" placeholder="Search our website" />
             <span className="shortcut-hint">ctrl+k</span>
           </div>
-          <Link to="/login" className="nav-login">Log In</Link>
-          <Link to="/trial" className="nav-trial-btn">Start Free Trial</Link>
+          {/* <Link to="/login" className="nav-login">Log In</Link>
+          <Link to="/trial" className="nav-trial-btn">Start Free Trial</Link> */}
         </div>
       </div>
     </nav>
